@@ -1,2 +1,2 @@
 # A1R
-Airplay had full rights to fork that it because I made it for him don't call him a skid 😑
+If anyone forks this they are most likely a skid
