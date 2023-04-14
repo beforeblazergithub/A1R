@@ -1,5 +1,5 @@
 # A1R!
-One of the best game sites with perfect UI! We our proud to say that our sponsor AlienHub, have provided alot of stuff! Thank you AlienHub!
+One of the best game sites with perfect UI made by BlazerHM! We our proud to say that our sponsor AlienHub, have provided alot of stuff! Thank you AlienHub!
 
 __
 
