@@ -96,8 +96,24 @@ body {
 .content {
     position: relative;
     width: 100%;
-    height: 100vh;
+    height: 115vh;
+    margin-top: -10vw;
     overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.content iframe {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -12vh;
+    margin-left:10px;
+    width:470px;
+    height: 265px;
+    user-select: none;
 }
 
 .content h1 {
