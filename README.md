@@ -10,7 +10,7 @@ _
 # Copyright
 
                   GNU AFFERO GENERAL PUBLIC LICENSE
-                       Version 3, 19 November 2007
+                       Version 3, 4 14 April
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
